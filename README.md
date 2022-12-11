@@ -30,6 +30,16 @@ matrix
 ```
 **You can’t use / create user definded functions and resort to procedural PL/pgSQL.**
 
+### Solution Details
+	 
+To complete this task, I've set up PostgreSQL locally & interracted with a database using DBeaver. 
+I've created a table that matches the task's requirements & worked further with it to solve the set problem. 
+Also, I've included a tiny .py file that includes a solution to such a problem in Python. It can also be extended to work with a Series of arrays (with pandas). 
+	 
+Files: 
+* sql_solution_sql.sql 
+* sql_solution_python.py
+
 ## EDA Analysis 
 
 Provide EDA Analysis for dataset: [link](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
